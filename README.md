@@ -3,7 +3,7 @@
 # Software Quality Testing Project
 
 ## Project Overview
-This project focuses on testing a **Blogging Site** frontend developed by a friend. I tested critical features such as **Blog Follow**, **Login**, and **Search** functionalities using **Cypress** for automated testing. And the backend was tested through Postman and Manual testing
+This project focuses on testing a **Blogging Site** MERN Application developed by a Fellow Developer. I tested critical features such as **Blog Follow**, **Login**, and **Search** functionalities using **Cypress** for automated testing. And the backend was tested through Postman and Manual testing
 
 ### Attached UI Screenshot
 Below is the screenshot of the UI under test:
