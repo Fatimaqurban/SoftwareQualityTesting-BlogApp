@@ -8,8 +8,12 @@ This project focuses on testing a **Blogging Site** frontend developed by a frie
 ### Attached UI Screenshot
 Below is the screenshot of the UI under test:
 
-![Login and Sign Up UI](./login%20signup.png)
-
+![blog details](./assets/blog details.png)
+![home](./assets/home.png)
+![login signup](./assets/login signup.png)
+![profile](./assets/profile.png)
+![search](./assets/search.png)
+![my blog](./assets/my blog.png)
 ---
 
 ## Requirements Fulfilled
